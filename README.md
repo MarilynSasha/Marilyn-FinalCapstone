@@ -25,4 +25,4 @@ Year in Pitchfork 2016 [Analysis](https://imgur.com/a/MNMwn)
 ## Presentation Slides on [Canva](https://www.canva.com/design/DAEIXIiv3wI/ssCXK1KZqVOh5lXHZn6b4A/view?utm_content=DAEIXIiv3wI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## Linear Regression Model 
-![LRM](/Users/TheUnit/Desktop/Marilyn-FinalCapstone/model.jpg)
+![LRM](https://photos.google.com/search/_tra_/photo/AF1QipNFJPSwx0DfZs_BwaPCE_Jtx9GY6J3ZnrEFLqbH)
