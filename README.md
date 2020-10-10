@@ -1,7 +1,5 @@
-# Marilyn-FinalCapstone
-
-## TOPIC: Pitchfork Reviews: How Beneficial Are They To Site Traffic?
-Analysis of Pitchfork Music Reviews in regard to website traffic. 
+# TOPIC: Pitchfork Reviews: How Beneficial Are They To Site Traffic?
+## Analysis of Pitchfork Music Reviews in regard to website traffic. 
 
 ## Jupyter Notebook: 
 Python, Seaborn used to clean data, filter, create new tables, explore the data and create a linear regression model. 
