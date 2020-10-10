@@ -1,13 +1,13 @@
 # Marilyn-FinalCapstone
 
-##TOPIC: Pitchfork Reviews: How Beneficial Are They To Site Traffic?
+## TOPIC: Pitchfork Reviews: How Beneficial Are They To Site Traffic?
 Analysis of Pitchfork Music Reviews in regard to website traffic. 
 
-##Notebook: Python, Seaborn used to clean data, filter, create new tables, explore the data and create a linear regression model. 
+## Notebook: Python, Seaborn used to clean data, filter, create new tables, explore the data and create a linear regression model. 
 
-##Visualizations: Tableau 
+## Visualizations: Tableau 
 
-##References: 
+## References: 
 
 Data from Pitchfork Reviews from [Kaggle](https://www.kaggle.com/nolanbconaway/pitchfork-data?select=database.sqlite)
 
@@ -23,4 +23,4 @@ Year in Pitchfork 2016 [Analysis](https://imgur.com/a/MNMwn)
 
 
 
-Presentation Slide on [Canva](https://www.canva.com/design/DAEIXIiv3wI/ssCXK1KZqVOh5lXHZn6b4A/view?utm_content=DAEIXIiv3wI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+## Presentation Slides on [Canva](https://www.canva.com/design/DAEIXIiv3wI/ssCXK1KZqVOh5lXHZn6b4A/view?utm_content=DAEIXIiv3wI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
