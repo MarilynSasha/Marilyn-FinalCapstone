@@ -3,9 +3,11 @@
 ## TOPIC: Pitchfork Reviews: How Beneficial Are They To Site Traffic?
 Analysis of Pitchfork Music Reviews in regard to website traffic. 
 
-## Notebook: Python, Seaborn used to clean data, filter, create new tables, explore the data and create a linear regression model. 
+## Jupyter Notebook: 
+Python, Seaborn used to clean data, filter, create new tables, explore the data and create a linear regression model. 
 
-## Visualizations: Tableau 
+## Visualizations: 
+Tableau 
 
 ## References: 
 
